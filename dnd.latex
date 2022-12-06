@@ -1,4 +1,5 @@
 \documentclass[10pt,twoside,twocolumn]{article}
+\usepackage{parskip}
 \usepackage[bg-letter]{dnd}
 \usepackage{amssymb,amsmath}
 \usepackage{fixltx2e} % provides \textsubscript
